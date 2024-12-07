@@ -1,0 +1,61 @@
+~*
+._*
+.TemporaryItems
+.DS_Store
+Thumbs.db
+<<<<<<< HEAD
+/bin/
+*.class
+*.jar
+*.war
+*.ear
+hs_error_pid*
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.mod
+*.lai
+*.la
+*.a
+*.dll
+*.lib
+*.exe
+*.app
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+/bin/
+*.class
+*.jar
+*.war
+*.ear
+hs_error_pid*
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.mod
+*.lai
+*.la
+*.a
+*.dll
+*.lib
+*.exe
+*.app
+=======
+>>>>>>> branch 'master' of https://web-cat.cs.vt.edu/Web-CAT/WebObjects/Web-CAT.woa/git/StudentProject/e3ddda38-71e2-4ee2-bfcf-70284f041f56
+/bin/
+=======
+>>>>>>> branch 'master' of https://web-cat.cs.vt.edu/Web-CAT/WebObjects/Web-CAT.woa/git/StudentProject/e3ddda38-71e2-4ee2-bfcf-70284f041f56
+>>>>>>> branch 'master' of https://web-cat.cs.vt.edu/Web-CAT/WebObjects/Web-CAT.woa/git/StudentProject/e3ddda38-71e2-4ee2-bfcf-70284f041f56
+/bin/
+/bin/

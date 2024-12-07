@@ -1,0 +1,111 @@
+Artist hash table size doubled.
+|Vaundy| is added to the Artist database.
+Song hash table size doubled.
+|gift| is added to the Song database.
+Song hash table size doubled.
+|CHAINSAW BLOOD| is added to the Song database.
+Artist hash table size doubled.
+|NONA REEVES| is added to the Artist database.
+Song hash table size doubled.
+|LOVE TOGETHER| is added to the Song database.
+|DJ!DJ!| is added to the Song database.
+|NONA REEVES<SEP>DJ!DJ!| duplicates a record already in the database.
+Artist hash table size doubled.
+|me| is added to the Artist database.
+2: |Vaundy|
+4: |NONA REEVES|
+5: |me|
+total artists: 3
+0: |CHAINSAW BLOOD|
+3: |LOVE TOGETHER|
+6: |DJ!DJ!|
+7: |gift|
+total songs: 4
+There are 1 connected components
+The largest connected component has 7 elements
+|DJ!DJ!| is removed from the Song database.
+2: |Vaundy|
+4: |NONA REEVES|
+5: |me|
+total artists: 3
+0: |CHAINSAW BLOOD|
+3: |LOVE TOGETHER|
+6: TOMBSTONE
+7: |gift|
+total songs: 3
+There are 2 connected components
+The largest connected component has 4 elements
+|LOVE TOGETHER| is removed from the Song database.
+2: |Vaundy|
+4: |NONA REEVES|
+5: |me|
+total artists: 3
+0: |CHAINSAW BLOOD|
+3: TOMBSTONE
+6: TOMBSTONE
+7: |gift|
+total songs: 2
+There are 2 connected components
+The largest connected component has 4 elements
+|me| is removed from the Artist database.
+2: |Vaundy|
+4: |NONA REEVES|
+5: TOMBSTONE
+total artists: 2
+0: |CHAINSAW BLOOD|
+3: TOMBSTONE
+6: TOMBSTONE
+7: |gift|
+total songs: 2
+There are 2 connected components
+The largest connected component has 3 elements
+|NONA REEVES| is removed from the Artist database.
+2: |Vaundy|
+4: TOMBSTONE
+5: TOMBSTONE
+total artists: 1
+0: |CHAINSAW BLOOD|
+3: TOMBSTONE
+6: TOMBSTONE
+7: |gift|
+total songs: 2
+There are 1 connected components
+The largest connected component has 3 elements
+|NONA REEVES| is added to the Artist database.
+|Love together| is added to the Song database.
+2: |Vaundy|
+4: |NONA REEVES|
+5: TOMBSTONE
+total artists: 2
+0: |CHAINSAW BLOOD|
+3: |Love together|
+6: TOMBSTONE
+7: |gift|
+total songs: 3
+There are 2 connected components
+The largest connected component has 3 elements
+|Vaundy<SEP>gift| duplicates a record already in the database.
+2: |Vaundy|
+4: |NONA REEVES|
+5: TOMBSTONE
+total artists: 2
+0: |CHAINSAW BLOOD|
+3: |Love together|
+6: TOMBSTONE
+7: |gift|
+total songs: 3
+There are 2 connected components
+The largest connected component has 3 elements
+|me| does not exist in the Artist database.
+2: |Vaundy|
+4: |NONA REEVES|
+5: TOMBSTONE
+total artists: 2
+0: |CHAINSAW BLOOD|
+3: |Love together|
+6: TOMBSTONE
+7: |gift|
+total songs: 3
+There are 2 connected components
+The largest connected component has 3 elements
+|me| does not exist in the Artist database.

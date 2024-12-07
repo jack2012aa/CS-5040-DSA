@@ -1,0 +1,39 @@
+insert Vaundy<SEP>gift
+insert Vaundy<SEP>CHAINSAW BLOOD
+insert NONA REEVES<SEP>LOVE TOGETHER
+insert NONA REEVES<SEP>DJ!DJ!
+insert NONA REEVES<SEP> DJ!DJ!
+insert me<SEP>gift
+insert me<SEP>DJ!DJ!
+print artist
+print song
+print graph
+remove song DJ!DJ!
+print artist
+print song
+print graph
+remove song LOVE TOGETHER
+print artist
+print song
+print graph
+remove artist me
+print artist
+print song
+print graph
+remove artist NONA REEVES
+print artist
+print song
+print graph
+insert NONA REEVES<SEP>Love together
+print artist
+print song
+print graph
+insert Vaundy<SEP>gift
+print artist
+print song
+print graph
+remove artist me
+print artist
+print song
+print graph
+remove artist me
